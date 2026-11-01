@@ -5,7 +5,7 @@
     "IamRedi/redion-relay-showcase",
     "www.redioncekrezi.de — redion-relay case study (sq/en/de/it)"
   ],
-  "publication": "AWAITING_OWNER_EDITORIAL_APPROVAL",
+  "publication": "OWNER_APPROVED_FOR_PUBLICATION",
   "assets": [
     {
       "file": "docs/assets/booking-native.png",
@@ -15,7 +15,7 @@
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
       "captured_utc": "2026-11-01T16:19:07.619574+00:00",
-      "approval": "DRAFT",
+      "approval": "OWNER_APPROVED",
       "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00"
     },
     {
@@ -26,7 +26,7 @@
       "source_environment": "Production browser sandbox",
       "synthetic": true,
       "captured_utc": "2026-11-01T15:43:41.352225+00:00",
-      "approval": "DRAFT"
+      "approval": "OWNER_APPROVED"
     },
     {
       "file": "docs/assets/inbox-phone.png",
@@ -36,7 +36,7 @@
       "source_environment": "Production browser sandbox",
       "synthetic": true,
       "captured_utc": "2026-11-01T15:43:43.186409+00:00",
-      "approval": "DRAFT"
+      "approval": "OWNER_APPROVED"
     },
     {
       "file": "docs/assets/native-workflow-en.mp4",
@@ -46,7 +46,7 @@
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
       "captured_utc": "2026-11-01T16:19:07.704369+00:00",
-      "approval": "DRAFT",
+      "approval": "OWNER_APPROVED",
       "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00",
       "duration_seconds": 21.4147,
       "width": 720,
@@ -60,7 +60,7 @@
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
       "captured_utc": "2026-11-01T16:22:04.522149+00:00",
-      "approval": "DRAFT",
+      "approval": "OWNER_APPROVED",
       "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00"
     },
     {
@@ -71,7 +71,7 @@
       "source_environment": "Production browser sandbox",
       "synthetic": true,
       "captured_utc": "2026-11-01T15:43:41.827408+00:00",
-      "approval": "DRAFT"
+      "approval": "OWNER_APPROVED"
     },
     {
       "file": "docs/assets/relay.svg",
@@ -81,7 +81,18 @@
       "source_environment": "Original Relay brand mark",
       "synthetic": true,
       "captured_utc": "2026-11-01T12:52:13.593567+00:00",
-      "approval": "DRAFT"
+      "approval": "OWNER_APPROVED"
     }
-  ]
+  ],
+  "owner_approval": {
+    "candidate": "relay-0.1.0-c1",
+    "recorded_utc": "2026-11-01T16:47:26.921388+00:00",
+    "targets": [
+      "IamRedi/redion-relay-showcase",
+      "www.redioncekrezi.de — redion-relay case study (sq/en/de/it)"
+    ],
+    "instruction": "po e miratoj kete version relay-0.1.0-c1, publikoje showcase ne github edhe ne portofolio, kodin dhe apk mbaji privat. rwatch 1.1.0 mos e prek.",
+    "reviewed_showcase_revision": "06bc747ad5fd1dd68b34804afabac6500759ccd4",
+    "reviewed_portfolio_revision": "d6a8bd5f7e42d0c993b2817b5aec4bc8aa12a03f"
+  }
 }
