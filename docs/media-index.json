@@ -91,7 +91,7 @@
       "IamRedi/redion-relay-showcase",
       "www.redioncekrezi.de — redion-relay case study (sq/en/de/it)"
     ],
-    "instruction": "po e miratoj kete version relay-0.1.0-c1, publikoje showcase ne github edhe ne portofolio, kodin dhe apk mbaji privat. rwatch 1.1.0 mos e prek.",
+    "instruction": "Owner explicitly approved relay-0.1.0-c1 for the GitHub showcase and portfolio; implementation and APK distribution remain private.",
     "reviewed_showcase_revision": "06bc747ad5fd1dd68b34804afabac6500759ccd4",
     "reviewed_portfolio_revision": "d6a8bd5f7e42d0c993b2817b5aec4bc8aa12a03f"
   }
