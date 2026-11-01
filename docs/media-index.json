@@ -54,8 +54,8 @@
     },
     {
       "file": "docs/assets/native-workflow-en.vtt",
-      "sha256": "42dad16bcabcc81c3fc7fdf3ec3b5fb634db15ae5d313acd1e9b269cf75e6ff4",
-      "bytes": 270,
+      "sha256": "d18408a6f8ca59cacc7692826ae2dad95806c26bf75d5825c4b6f22e6791d002",
+      "bytes": 260,
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
