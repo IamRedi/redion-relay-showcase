@@ -1,0 +1,71 @@
+{
+  "candidate": "relay-0.1.0-c1",
+  "project": "RediON Relay",
+  "targets": [
+    "IamRedi/redion-relay-showcase",
+    "www.redioncekrezi.de — redion-relay case study (sq/en/de/it)"
+  ],
+  "publication": "AWAITING_OWNER_EDITORIAL_APPROVAL",
+  "assets": [
+    {
+      "file": "docs/assets/booking-native.png",
+      "sha256": "8b6f2a2ff8f335f5b54aa6f99d178e6afb998508b94583d30f84e7dc2855367b",
+      "bytes": 84495,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Android API35 emulator, owned reference apps",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/inbox-desktop.png",
+      "sha256": "74e217372370bc933ef8bcd511aee5a02862545db2093823f6b17df7112cb32e",
+      "bytes": 399196,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Production browser sandbox",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/inbox-phone.png",
+      "sha256": "c3a1e24cc37b5107ca7afa6b05947812e4b8643dcf6ccc7ac3eca8b00c3559e3",
+      "bytes": 122506,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Production browser sandbox",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/native-workflow-en.mp4",
+      "sha256": "38d4ce9607452072586f19bd7a841973386caa6f8156f4ee8f4fe465b8c97e81",
+      "bytes": 821561,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Android API35 emulator, owned reference apps",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/native-workflow-en.vtt",
+      "sha256": "d623a7698af08198eec60362791ec9c24e5ad02eae7c86ac7271d57f3c57c3fb",
+      "bytes": 260,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Android API35 emulator, owned reference apps",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/rules-desktop.png",
+      "sha256": "ca01c92fca4926fef8771797a2595115c4538e07f45374b30143c2e9e33b881c",
+      "bytes": 259136,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Production browser sandbox",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "approval": "DRAFT"
+    }
+  ]
+}
