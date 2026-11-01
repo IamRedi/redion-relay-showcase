@@ -1,0 +1,87 @@
+{
+  "candidate": "relay-0.1.0-c1",
+  "project": "RediON Relay",
+  "targets": [
+    "IamRedi/redion-relay-showcase",
+    "www.redioncekrezi.de — redion-relay case study (sq/en/de/it)"
+  ],
+  "publication": "AWAITING_OWNER_EDITORIAL_APPROVAL",
+  "assets": [
+    {
+      "file": "docs/assets/booking-native.png",
+      "sha256": "8bf90dd8ea3e04bb483ad1c86dfee8bd612f9db9e07fdad374a4cdb3e282bed6",
+      "bytes": 341860,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Android API35 emulator, owned reference apps",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:19:07.619574+00:00",
+      "approval": "DRAFT",
+      "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00"
+    },
+    {
+      "file": "docs/assets/inbox-desktop.png",
+      "sha256": "74e217372370bc933ef8bcd511aee5a02862545db2093823f6b17df7112cb32e",
+      "bytes": 399196,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Production browser sandbox",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T15:43:41.352225+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/inbox-phone.png",
+      "sha256": "c3a1e24cc37b5107ca7afa6b05947812e4b8643dcf6ccc7ac3eca8b00c3559e3",
+      "bytes": 122506,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Production browser sandbox",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T15:43:43.186409+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/native-workflow-en.mp4",
+      "sha256": "d591004c068cb55955bbb7a31a97b1df10e62603f7b645146c60db6cdbc90596",
+      "bytes": 834570,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Android API35 emulator, owned reference apps",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:19:07.704369+00:00",
+      "approval": "DRAFT",
+      "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00",
+      "duration_seconds": 21.4147,
+      "width": 720,
+      "height": 1600
+    },
+    {
+      "file": "docs/assets/native-workflow-en.vtt",
+      "sha256": "d18408a6f8ca59cacc7692826ae2dad95806c26bf75d5825c4b6f22e6791d002",
+      "bytes": 260,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Android API35 emulator, owned reference apps",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T16:22:04.522149+00:00",
+      "approval": "DRAFT",
+      "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00"
+    },
+    {
+      "file": "docs/assets/rules-desktop.png",
+      "sha256": "ca01c92fca4926fef8771797a2595115c4538e07f45374b30143c2e9e33b881c",
+      "bytes": 259136,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Production browser sandbox",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T15:43:41.827408+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/relay.svg",
+      "sha256": "9cb4ee52a694d23a57a60df37a5ce28b114f3650d8120b50beca088f19fdb31d",
+      "bytes": 284,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Original Relay brand mark",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T12:52:13.593567+00:00",
+      "approval": "DRAFT"
+    }
+  ]
+}
