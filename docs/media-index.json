@@ -9,13 +9,14 @@
   "assets": [
     {
       "file": "docs/assets/booking-native.png",
-      "sha256": "8b6f2a2ff8f335f5b54aa6f99d178e6afb998508b94583d30f84e7dc2855367b",
-      "bytes": 84495,
+      "sha256": "8bf90dd8ea3e04bb483ad1c86dfee8bd612f9db9e07fdad374a4cdb3e282bed6",
+      "bytes": 341860,
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
-      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
-      "approval": "DRAFT"
+      "captured_utc": "2026-11-01T16:19:07.619574+00:00",
+      "approval": "DRAFT",
+      "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00"
     },
     {
       "file": "docs/assets/inbox-desktop.png",
@@ -24,7 +25,7 @@
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Production browser sandbox",
       "synthetic": true,
-      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "captured_utc": "2026-11-01T15:43:41.352225+00:00",
       "approval": "DRAFT"
     },
     {
@@ -34,28 +35,33 @@
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Production browser sandbox",
       "synthetic": true,
-      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "captured_utc": "2026-11-01T15:43:43.186409+00:00",
       "approval": "DRAFT"
     },
     {
       "file": "docs/assets/native-workflow-en.mp4",
-      "sha256": "38d4ce9607452072586f19bd7a841973386caa6f8156f4ee8f4fe465b8c97e81",
-      "bytes": 821561,
+      "sha256": "d591004c068cb55955bbb7a31a97b1df10e62603f7b645146c60db6cdbc90596",
+      "bytes": 834570,
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
-      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
-      "approval": "DRAFT"
+      "captured_utc": "2026-11-01T16:19:07.704369+00:00",
+      "approval": "DRAFT",
+      "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00",
+      "duration_seconds": 21.4147,
+      "width": 720,
+      "height": 1600
     },
     {
       "file": "docs/assets/native-workflow-en.vtt",
-      "sha256": "d623a7698af08198eec60362791ec9c24e5ad02eae7c86ac7271d57f3c57c3fb",
-      "bytes": 260,
+      "sha256": "42dad16bcabcc81c3fc7fdf3ec3b5fb634db15ae5d313acd1e9b269cf75e6ff4",
+      "bytes": 270,
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Android API35 emulator, owned reference apps",
       "synthetic": true,
-      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
-      "approval": "DRAFT"
+      "captured_utc": "2026-11-01T16:22:04.522149+00:00",
+      "approval": "DRAFT",
+      "source_artifact_sha256": "12b86f3afccf2d9ebeefb81ce81c98a92c9d77f26d00fc4c2624b8b6c023ea00"
     },
     {
       "file": "docs/assets/rules-desktop.png",
@@ -64,7 +70,17 @@
       "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
       "source_environment": "Production browser sandbox",
       "synthetic": true,
-      "captured_utc": "2026-11-01T16:03:23.160552+00:00",
+      "captured_utc": "2026-11-01T15:43:41.827408+00:00",
+      "approval": "DRAFT"
+    },
+    {
+      "file": "docs/assets/relay.svg",
+      "sha256": "9cb4ee52a694d23a57a60df37a5ce28b114f3650d8120b50beca088f19fdb31d",
+      "bytes": 284,
+      "source_revision": "b0e63d245b3fe97eb6cb2bdb39f067e0d98c1436",
+      "source_environment": "Original Relay brand mark",
+      "synthetic": true,
+      "captured_utc": "2026-11-01T12:52:13.593567+00:00",
       "approval": "DRAFT"
     }
   ]

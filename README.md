@@ -23,7 +23,7 @@ with the actual UI. A click by itself never counts as a confirmed booking.
 
 ## Watch the native workflow
 
-[Watch the Android emulator recording · 15 seconds](docs/assets/native-workflow-en.mp4)
+[Watch the Android emulator recording · short native workflow](docs/assets/native-workflow-en.mp4)
 
 A fictitious request moves through our native reference form and returns with a
 matching receipt. Captured from Android API35, not a physical-device/customer pilot.
