@@ -5,7 +5,7 @@
     "IamRedi/redion-relay-showcase",
     "www.redioncekrezi.de — redion-relay case study (sq/en/de/it)"
   ],
-  "publication": "OWNER_APPROVED_FOR_PUBLICATION",
+  "publication": "PUBLISHED",
   "assets": [
     {
       "file": "docs/assets/booking-native.png",
@@ -94,5 +94,12 @@
     "instruction": "Owner explicitly approved relay-0.1.0-c1 for the GitHub showcase and portfolio; implementation and APK distribution remain private.",
     "reviewed_showcase_revision": "06bc747ad5fd1dd68b34804afabac6500759ccd4",
     "reviewed_portfolio_revision": "d6a8bd5f7e42d0c993b2817b5aec4bc8aa12a03f"
+  },
+  "published": {
+    "verified_utc": "2026-11-01T16:51:56.791111+00:00",
+    "showcase": "https://github.com/IamRedi/redion-relay-showcase",
+    "portfolio": "https://www.redioncekrezi.de/sq/projects/redion-relay",
+    "portfolio_revision": "727710ca52b6a3d75661502f01f2145eeb6ffdf2",
+    "verification": "Anonymous access verified; four locale pages and all production media hashes matched the approved candidate."
   }
 }
